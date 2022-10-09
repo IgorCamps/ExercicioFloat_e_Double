@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1665060566 source:c:\users\aluno.uesc\documents\igorcampos3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1665060568 source:c:\users\igorc\onedrive\documentos\uesc\exerciciosaula_float_06_10\exe3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

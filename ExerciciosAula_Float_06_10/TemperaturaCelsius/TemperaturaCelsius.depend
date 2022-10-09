@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665092694 source:c:\users\igorc\onedrive\documentos\uesc\exerciciosaula_float_06_10\temperaturacelsius\main.c
+	<stdio.h>
+	<stdlib.h>
+
